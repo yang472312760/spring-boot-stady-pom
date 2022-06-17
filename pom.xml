@@ -30,7 +30,7 @@
         <!-- 分页插件 -->
         <pagehelper.version>1.2.3</pagehelper.version>
         <!-- 阿里json -->
-        <fastjson.version>1.2.32</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
     </properties>
 
     <dependencyManagement>
